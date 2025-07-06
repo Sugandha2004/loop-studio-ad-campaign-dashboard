@@ -15,7 +15,7 @@ This project was inspired by the real-life agency Loop Studio by Varuna Saini an
 
 ---
 
-### 📌 Key Features of the Dashboard
+### Key Features of the Dashboard
 | Component | Description |
 |----------|-------------|
 | *** Campaign KPIs*** | Tracks Spend, Impressions, Clicks, CTR, Engagement, and Leads |
@@ -26,16 +26,16 @@ This project was inspired by the real-life agency Loop Studio by Varuna Saini an
 
 ---
 
-### 📷 Dashboard Preview and Links
+### Dashboard Preview and Links
 -PowerBI Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiYjBiNTAyMzMtYWQwZi00NDQ0LTk5MjAtMjYyNzY1MzRiMjgyIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9
 -PDF - loop_Studio.pdf
 ---
-### 🧠 Business Value
+###  Business Value
 This dashboard offers a centralized view of marketing efforts, helping stakeholders make informed decisions based on engagement metrics, platform trends, and campaign ROI. It's an example of turning raw marketing data into a powerful business tool.
 
 ---
 
-### 🤝 Special Thanks
+###  Special Thanks
 Thanks to **Varuna Saini**, founder of Loop Studio, for offering constructive feedback that helped shape the business logic and insights shown in this project.
 
 ---
