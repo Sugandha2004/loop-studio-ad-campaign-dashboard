@@ -18,9 +18,9 @@ This project was inspired by the real-life agency Loop Studio by Varuna Saini an
 ### Key Features of the Dashboard
 | Component | Description |
 |----------|-------------|
-| *** Campaign KPIs*** | Tracks Spend, Impressions, Clicks, CTR, Engagement, and Leads |
-| ** Platform Comparison** | Analyze Facebook vs Instagram performance |
-| ** Lead Efficiency** | Visual breakdown of leads per campaign |
+| Campaign KPIs | Tracks Spend, Impressions, Clicks, CTR, Engagement, and Leads |
+| Platform Comparison** | Analyze Facebook vs Instagram performance |
+| Lead Efficiency** | Visual breakdown of leads per campaign |
 | ** Audience Insights** | Engagement by content type, age, and platform |
 | ** Recommendations** | Suggestions for improving campaign ROI based on data trends |
 
