@@ -19,16 +19,16 @@ This project was inspired by the real-life agency Loop Studio by Varuna Saini an
 | Component | Description |
 |----------|-------------|
 | Campaign KPIs | Tracks Spend, Impressions, Clicks, CTR, Engagement, and Leads |
-| Platform Comparison** | Analyze Facebook vs Instagram performance |
-| Lead Efficiency** | Visual breakdown of leads per campaign |
-| ** Audience Insights** | Engagement by content type, age, and platform |
-| ** Recommendations** | Suggestions for improving campaign ROI based on data trends |
+| Platform Comparison| Analyze Facebook vs Instagram performance |
+| Lead Efficiency | Visual breakdown of leads per campaign |
+| Audience Insights| Engagement by content type, age, and platform |
+| Recommendations| Suggestions for improving campaign ROI based on data trends |
 
 ---
 
 ### Dashboard Preview and Links
--PowerBI Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiYjBiNTAyMzMtYWQwZi00NDQ0LTk5MjAtMjYyNzY1MzRiMjgyIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9
--PDF - loop_Studio.pdf
+- Power BI Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiYjBiNTAyMzMtYWQwZi00NDQ0LTk5MjAtMjYyNzY1MzRiMjgyIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9
+- PDF-
 ---
 ###  Business Value
 This dashboard offers a centralized view of marketing efforts, helping stakeholders make informed decisions based on engagement metrics, platform trends, and campaign ROI. It's an example of turning raw marketing data into a powerful business tool.
