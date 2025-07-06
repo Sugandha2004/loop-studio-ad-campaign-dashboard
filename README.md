@@ -28,7 +28,7 @@ This project was inspired by the real-life agency Loop Studio by Varuna Saini an
 
 ### Dashboard Preview and Links
 - Power BI Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiYjBiNTAyMzMtYWQwZi00NDQ0LTk5MjAtMjYyNzY1MzRiMjgyIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9
-- PDF-
+- PDF-loop_Studio.pdf
 ---
 ###  Business Value
 This dashboard offers a centralized view of marketing efforts, helping stakeholders make informed decisions based on engagement metrics, platform trends, and campaign ROI. It's an example of turning raw marketing data into a powerful business tool.
